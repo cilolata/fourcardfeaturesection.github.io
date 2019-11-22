@@ -1,0 +1,97 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+
+    header{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-size: 12px;
+        margin-top: 30px;
+        height: 5vh;
+    }
+        
+    .p-header{
+        padding: 0;
+        width: 80%;
+        font-size: 10px;
+    }
+
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    div.body-content{
+        padding-left: 5% ;
+    }
+
+    .card-supervisor{
+        height: 30vh;
+        width: 75%;
+        margin: 0 5px 10px 5px;
+
+    }
+
+    .card-team{
+        height: 30vh;
+        width: 75%;
+        margin: 0 5px 10px 5px;
+    }
+
+    .card-karma{
+        height: 30vh;
+        width: 75%;
+        margin: 0 5px 10px 5px;
+    }
+
+    .card-calculator{
+        height: 30vh;
+        width: 75%;
+        margin: 0 5px 10px 5px;
+    }
+
+    .attribution{
+        font-size: 8px;
+    }
+}
+   
+@media (min-width: 576px) and (max-width: 767px) {
+    header{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-size: 15px;
+        margin-top: 50px;
+    }
+        
+    .p-header{
+        padding: 0;
+    }
+
+    .card-supervisor{
+        height: 40vh;
+
+    }
+
+    .card-team{
+        height: 40vh;
+    }
+
+    .card-karma{
+        height: 40vh;
+    }
+
+    .card-calculator{
+        height: 40vh;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1200px){
+    .p-header{
+        width:100% ;
+        padding: 0;
+    }
+}
+  
