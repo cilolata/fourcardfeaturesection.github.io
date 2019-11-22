@@ -80,9 +80,9 @@ div.img{
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
-    height: 15vh;
-    padding-right: 20px;
-    padding-bottom: 20px;  
+    margin-right: 20px;
+    margin-top: 30px;
+   
 }
 
 .image{
