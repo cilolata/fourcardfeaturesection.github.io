@@ -12,9 +12,8 @@ body{
     "main" 
     "footer";
     grid-template-columns: auto;
-    grid-template-rows: 25vh auto auto ; 
-    background-color:  	#F8F8F8;
-     
+    grid-template-rows: 28vh auto auto ; 
+    background-color:  	#F8F8F8;     
 }
 
 
